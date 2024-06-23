@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 484 502" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <g transform="matrix(1,0,0,1,-992,-50)">
+        <g transform="matrix(1,0,0,1,-342,-147)">
+            <g transform="matrix(1,0,0,1,1133.79,-115.797)">
+                <g transform="matrix(1.16087,0,0,1.06604,-71.7193,-58.8015)">
+                    <path d="M445.831,406.093C538.182,406.093 613.057,489.515 613.057,592.135C613.057,694.755 538.182,778.177 445.831,778.177C353.48,778.177 278.604,694.755 278.604,592.135C278.604,489.515 353.48,406.093 445.831,406.093Z" style="fill:rgb(214,214,214);stroke:rgb(36,148,165);stroke-width:5.61px;stroke-dasharray:5.61,5.61;"/>
+                </g>
+                <g transform="matrix(1.29633,0,0,1.21657,-132.114,-147.938)">
+                    <path d="M445.831,404.753C538.804,404.753 614.096,488.824 614.096,592.135C614.096,695.446 538.804,779.516 445.831,779.516C352.858,779.516 277.566,695.446 277.566,592.135C277.566,488.824 352.858,404.753 445.831,404.753Z" style="fill:none;stroke:rgb(36,148,165);stroke-width:4.97px;"/>
+                </g>
+            </g>
+            <g transform="matrix(0.531326,0,0,0.531326,981.99,-435.569)">
+                <g transform="matrix(1,0.000129689,0.000129689,1.07807,-0.261563,-157.461)">
+                    <path d="M1110,1413L1111,2015" style="fill:none;stroke:rgb(36,148,165);stroke-width:113.12px;"/>
+                </g>
+                <path d="M869,1464L1313,1461C1357.79,1485.13 1394.43,1512.99 1422,1545C1393.55,1575.92 1360.63,1602.66 1323,1625L869,1624L869,1464Z" style="fill:rgb(155,223,233);stroke:rgb(36,148,165);stroke-width:35.29px;stroke-linecap:round;"/>
+                <g transform="matrix(1.7795,0,0,1.70617,-713.274,-1098.04)">
+                    <g transform="matrix(50,0,0,50,1153.09,1563.82)">
+                    </g>
+                    <text x="906px" y="1563.82px" style="font-family:'BerkeleyStd-BlackItalic', 'ITC Berkeley Oldstyle Std', serif;font-weight:800;font-style:italic;font-size:50px;fill:rgb(198,192,191);stroke:rgb(36,148,165);stroke-width:3.82px;stroke-miterlimit:2;">WELCOME</text>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
