@@ -191,3 +191,15 @@ main {
   padding: 2% 3%;
 
 }
+
+.footer {
+  background-image: url("../resources/images/temporary/bkg-footer.jpg");
+}
+
+.footer-img {
+  margin-top: 30px;
+}
+
+.foot-logo {
+  
+}
