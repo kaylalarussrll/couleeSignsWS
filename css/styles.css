@@ -28,12 +28,16 @@ nav {
 }
 
 .main-nav li {
-    display: inline;
+    display: inline-block;
+}
+
+.main-nav #about {
+  margin: 0px 458px;
 }
 
 .main-nav-button {
     font-family: ITC Berkeley Oldstyle Std Medium;
-    font-size: 20pt;
+    font-size: 25pt;
     font-style: none;
     color: #B4A8A5;
     padding: 8px;   
@@ -69,6 +73,16 @@ main {
     font-size: 50pt;
     color: #155761;
     text-align: center;
+    background-color: #B4A8A5;
+    font-style: italic;
+}
+
+#whatwedo h3 {
+  font-family: ITC Berkeley Oldstyle Std Bold;
+  font-size: 25pt;
+  color: #155761;
+  text-align: center;
+  text-wrap: wrap;
 }
 
 .row {
@@ -76,20 +90,20 @@ main {
   flex-wrap: wrap;
   padding: 0 4px;
   justify-content: center;
-  align-items: stretch;
 }
 
 /* Create four equal columns that sits next to each other */
 .column {
   flex: 25%;
-  max-width: 25%;
-  padding: 0 4px;
+  max-width: 15%;
+  padding: 0 30px;
 }
 
 .column img {
   margin-top: 8px;
   vertical-align: middle;
   width: 100%;
+  
 }
 
 /* Responsive layout - makes a two column-layout instead of four columns */
@@ -109,10 +123,13 @@ main {
 }
 
 #whoweare h2 {
+    padding-top: 30px;
     font-family: ITC Berkeley Oldstyle Std Bold Italic;
     font-size: 50pt;
+    font-style: italic;
     color: #155761;
     text-align: center;
+    background-color: #B4A8A5;
 }
 
 #whoweare p {
@@ -126,11 +143,51 @@ main {
 
 #whatwemake h2 {
     font-family: ITC Berkeley Oldstyle Std Bold Italic;
+    font-style: italic;
     font-size: 50pt;
     color: #155761;
     text-align: center;
+    background-color: #B4A8A5;
 }
 
 #bold {
     font-weight: bold !important;
+}
+
+#whatwemake h4 {
+  font-family: ITC Berkeley Oldstyle Std Italic;
+  font-weight: lighter;
+  font-style: italic;
+  font-size: 20pt;
+  color: #155761;
+  text-align: center;
+}
+
+#getintouch h2 {
+  font-family: ITC Berkeley Oldstyle Std Bold;
+  font-style: italic;
+  font-size: 50pt;
+  color: #155761;
+  text-align: center;
+  background-color: #B4A8A5;
+}
+
+#getintouch h3 {
+  font-family: ITC Berkeley Oldstyle Std;
+  font-size: 40pt;
+  color: #155761;
+  text-align: center;
+}
+
+#getintouch .reachout {
+  font-family: ITC Berkeley Oldstyle Std;
+  color: #155761;
+  background-color: #B4A8A5;
+  font-size: 40pt;
+  text-align: center;
+  margin: auto;
+  display: block;
+  border-radius: 70%;
+  padding: 2% 3%;
+
 }
