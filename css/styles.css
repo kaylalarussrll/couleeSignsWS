@@ -201,13 +201,12 @@ main {
 }
 
 .foot-logo {
-  
   margin: 20px;
 }
 
 .footer h5 {
   font-family: ITC Berkeley Oldstyle Std;
-  font-size: 13pt;
+  font-size: 10pt;
   font-weight: lighter;
   color: #B4A8A5;
   margin-left: 20px;
@@ -227,9 +226,62 @@ main {
   padding: 0 4px;
 }
 
-/* Create four equal columns that sits next to each other */
 .ftcolumn {
   flex: 35%;
   max-width: 30%;
-  padding-right: 120px;
+  padding-right: 70px;
+}
+
+.last-ftcolumn {
+  flex: 35%;
+  max-width: 30%;
+}
+
+.footer-nav-button {
+  font-family: ITC Berkeley Oldstyle Std Medium;
+    font-size: 10pt;
+    font-style: none;
+    color: #B4A8A5;  
+    text-decoration: none;
+    text-align: center;
+}
+
+.footer-nav-ul li {
+  display: flex;
+  list-style-type: none;
+}
+
+.footer-nav {
+  text-align: center;
+}
+
+.ftcolumn h4 {
+  font-family: ITC Berkeley Oldstyle Std Medium;
+  font-size: 15pt;
+  font-style: italic;
+  font-weight: bold;
+  color: #B4A8A5;
+}
+
+.last-ftcolumn h4 {
+  font-family: ITC Berkeley Oldstyle Std Medium;
+  font-size: 15pt;
+  font-style: italic;
+  font-weight: bold;
+  color: #B4A8A5;
+}
+
+.last-ftcolumn .reachout {
+  font-family: ITC Berkeley Oldstyle Std;
+  color: #155761;
+  background-color: #B4A8A5;
+  font-size: 15pt;
+  text-align: center;
+  margin: auto;
+  display: block;
+  border-radius: 70%;
+  padding: 2% 3%;
+}
+
+.last-ftcolumn #fb-button {
 }
