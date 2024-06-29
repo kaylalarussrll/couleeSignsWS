@@ -1,7 +1,9 @@
 @font-face {
-    font-family: 'ITC Berkeley Oldstyle Std Medium'; /*a name to be used later*/
+    font-family: 'ITC Berkeley Oldstyle Std'; /*a name to be used later*/
     src: url(../resources/fonts/BerkeleyStd-Medium.ttf); /*URL to font*/
 }
+
+/*index.html css*/
 
 #logo-landing {
     background-image: url("../resources/images/temporary/homepage-landing-bkg.svg");
@@ -283,5 +285,179 @@ main {
   padding: 2% 3%;
 }
 
-.last-ftcolumn #fb-button {
+/*services.html*/
+
+h1 {
+  font-family: ITC Berkeley Oldstyle Std;
+  font-size: 100pt;
+  font-weight: lighter;
+  font-style: italic;
+  text-align: center;
+  color: #B4A8A5;
+  margin: 200px 0px;
+  background-image: url(../resources/images/temporary/services-img-heading-banner.svg);
+}
+
+.services-paragraph {
+  font-family: ITC Berkeley Oldstyle Std Light Italic;
+  font-size: 60pt;
+  font-weight: lighter;
+  font-style: italic;
+  color: #155761;
+  text-align: center;
+}
+
+#embroidery h2 {
+  font-family: ITC Berkeley Oldstyle Std;
+  font-size: 70pt;
+  font-weight: bold;
+  font-style: italic;
+  color: #155761;
+  text-align: left;
+}
+
+#embroidery-machine {
+  height: 110px;
+  width: 120px;
+}
+
+#embroidery p {
+  font-family: ITC Berkeley Oldstlye Std light;
+  font-size: 20pt;
+  font-weight: lighter;
+  color: #155761;
+}
+
+#htv h2 {
+  font-family: ITC Berkeley Oldstyle Std;
+  font-size: 70pt;
+  font-weight: bold;
+  font-style: italic;
+  color: #155761;
+  text-align: left;
+}
+
+#t-shirt {
+  height: 110px;
+  width: 120px;
+}
+
+#htv p {
+  font-family: ITC Berkeley Oldstlye Std light;
+  font-size: 20pt;
+  font-weight: lighter;
+  color: #155761;
+}
+
+#signage h2 {
+  font-family: ITC Berkeley Oldstyle Std;
+  font-size: 70pt;
+  font-weight: bold;
+  font-style: italic;
+  color: #155761;
+  text-align: left;
+}
+
+#sign {
+  height: 110px;
+  width: 120px;
+}
+
+#signage p {
+  font-family: ITC Berkeley Oldstlye Std light;
+  font-size: 20pt;
+  font-weight: lighter;
+  color: #155761;
+}
+
+#photo-print h2 {
+  font-family: ITC Berkeley Oldstyle Std;
+  font-size: 70pt;
+  font-weight: bold;
+  font-style: italic;
+  color: #155761;
+  text-align: left;
+}
+
+#photo-printer {
+  height: 110px;
+  width: 120px;
+}
+
+#photo-print p {
+  font-family: ITC Berkeley Oldstlye Std light;
+  font-size: 20pt;
+  font-weight: lighter;
+  color: #155761;
+}
+
+#decal h2 {
+  font-family: ITC Berkeley Oldstyle Std;
+  font-size: 70pt;
+  font-weight: bold;
+  font-style: italic;
+  color: #155761;
+  text-align: left;
+}
+
+#truck-decal {
+  height: 110px;
+  width: 120px;
+}
+
+#decal p {
+  font-family: ITC Berkeley Oldstlye Std light;
+  font-size: 20pt;
+  font-weight: lighter;
+  color: #155761;
+}
+
+#sublimation h2 {
+  font-family: ITC Berkeley Oldstyle Std;
+  font-size: 70pt;
+  font-weight: bold;
+  font-style: italic;
+  color: #155761;
+  text-align: left;
+}
+
+#mug {
+  height: 110px;
+  width: 120px;
+}
+
+#sublimation p {
+  font-family: ITC Berkeley Oldstlye Std light;
+  font-size: 20pt;
+  font-weight: lighter;
+  color: #155761;
+}
+
+#swag h2 {
+  font-family: ITC Berkeley Oldstyle Std;
+  font-size: 70pt;
+  font-weight: bold;
+  font-style: italic;
+  color: #155761;
+  text-align: left;
+}
+
+#sticker {
+  height: 110px;
+  width: 120px;
+}
+
+#swag p {
+  font-family: ITC Berkeley Oldstlye Std light;
+  font-size: 20pt;
+  font-weight: lighter;
+  color: #155761;
+}
+
+#services-nav {
+  font-family: ITC Berkeley Oldstyle Std;
+  font-size: 30pt;
+  font-weight: bold;
+  color: #155761;
+  text-align: left;
 }
