@@ -38,7 +38,7 @@ nav {
 }
 
 .main-nav-button {
-    font-family: ITC Berkeley Oldstyle Std Medium;
+    font-family: ITC Berkeley Oldstyle Std;
     font-size: 25pt;
     font-style: none;
     color: #B4A8A5;
@@ -71,7 +71,7 @@ main {
 }
 
 #whatwedo h2 {
-    font-family: ITC Berkeley Oldstyle Std Bold Italic;
+    font-family: ITC Berkeley Oldstyle Std;
     font-size: 50pt;
     color: #155761;
     text-align: center;
@@ -80,7 +80,7 @@ main {
 }
 
 #whatwedo h3 {
-  font-family: ITC Berkeley Oldstyle Std Bold;
+  font-family: ITC Berkeley Oldstyle Std;
   font-size: 25pt;
   color: #155761;
   text-align: center;
@@ -126,7 +126,7 @@ main {
 
 #whoweare h2 {
     padding-top: 30px;
-    font-family: ITC Berkeley Oldstyle Std Bold Italic;
+    font-family: ITC Berkeley Oldstyle Std;
     font-size: 50pt;
     font-style: italic;
     color: #155761;
@@ -144,7 +144,7 @@ main {
 }
 
 #whatwemake h2 {
-    font-family: ITC Berkeley Oldstyle Std Bold Italic;
+    font-family: ITC Berkeley Oldstyle Std;
     font-style: italic;
     font-size: 50pt;
     color: #155761;
@@ -157,7 +157,7 @@ main {
 }
 
 #whatwemake h4 {
-  font-family: ITC Berkeley Oldstyle Std Italic;
+  font-family: ITC Berkeley Oldstyle Std;
   font-weight: lighter;
   font-style: italic;
   font-size: 20pt;
@@ -166,7 +166,7 @@ main {
 }
 
 #getintouch h2 {
-  font-family: ITC Berkeley Oldstyle Std Bold;
+  font-family: ITC Berkeley Oldstyle Std;
   font-style: italic;
   font-size: 50pt;
   color: #155761;
@@ -240,7 +240,7 @@ main {
 }
 
 .footer-nav-button {
-  font-family: ITC Berkeley Oldstyle Std Medium;
+  font-family: ITC Berkeley Oldstyle Std;
     font-size: 10pt;
     font-style: none;
     color: #B4A8A5;  
@@ -258,7 +258,7 @@ main {
 }
 
 .ftcolumn h4 {
-  font-family: ITC Berkeley Oldstyle Std Medium;
+  font-family: ITC Berkeley Oldstyle Std;
   font-size: 15pt;
   font-style: italic;
   font-weight: bold;
@@ -266,7 +266,7 @@ main {
 }
 
 .last-ftcolumn h4 {
-  font-family: ITC Berkeley Oldstyle Std Medium;
+  font-family: ITC Berkeley Oldstyle Std;
   font-size: 15pt;
   font-style: italic;
   font-weight: bold;
@@ -287,7 +287,7 @@ main {
 
 /*services.html*/
 
-h1 {
+.services-page h1 {
   font-family: ITC Berkeley Oldstyle Std;
   font-size: 100pt;
   font-weight: lighter;
@@ -299,7 +299,7 @@ h1 {
 }
 
 .services-paragraph {
-  font-family: ITC Berkeley Oldstyle Std Light Italic;
+  font-family: ITC Berkeley Oldstyle Std;
   font-size: 60pt;
   font-weight: lighter;
   font-style: italic;
@@ -322,7 +322,7 @@ h1 {
 }
 
 #embroidery p {
-  font-family: ITC Berkeley Oldstlye Std light;
+  font-family: ITC Berkeley Oldstlye Std;
   font-size: 20pt;
   font-weight: lighter;
   color: #155761;
@@ -343,7 +343,7 @@ h1 {
 }
 
 #htv p {
-  font-family: ITC Berkeley Oldstlye Std light;
+  font-family: ITC Berkeley Oldstlye Std;
   font-size: 20pt;
   font-weight: lighter;
   color: #155761;
@@ -364,7 +364,7 @@ h1 {
 }
 
 #signage p {
-  font-family: ITC Berkeley Oldstlye Std light;
+  font-family: ITC Berkeley Oldstlye Std;
   font-size: 20pt;
   font-weight: lighter;
   color: #155761;
@@ -385,7 +385,7 @@ h1 {
 }
 
 #photo-print p {
-  font-family: ITC Berkeley Oldstlye Std light;
+  font-family: ITC Berkeley Oldstlye Std;
   font-size: 20pt;
   font-weight: lighter;
   color: #155761;
@@ -406,7 +406,7 @@ h1 {
 }
 
 #decal p {
-  font-family: ITC Berkeley Oldstlye Std light;
+  font-family: ITC Berkeley Oldstlye Std;
   font-size: 20pt;
   font-weight: lighter;
   color: #155761;
@@ -427,7 +427,7 @@ h1 {
 }
 
 #sublimation p {
-  font-family: ITC Berkeley Oldstlye Std light;
+  font-family: ITC Berkeley Oldstlye Std;
   font-size: 20pt;
   font-weight: lighter;
   color: #155761;
@@ -448,7 +448,7 @@ h1 {
 }
 
 #swag p {
-  font-family: ITC Berkeley Oldstlye Std light;
+  font-family: ITC Berkeley Oldstlye Std;
   font-size: 20pt;
   font-weight: lighter;
   color: #155761;
@@ -460,4 +460,35 @@ h1 {
   font-weight: bold;
   color: #155761;
   text-align: left;
+}
+
+/*about.html*/
+
+.about-page h1 {
+  font-family: ITC Berkeley Oldstyle Std;
+  font-size: 100pt;
+  font-weight: lighter;
+  font-style: italic;
+  text-align: center;
+  color:#155761;
+}
+
+.about-page img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.about-page p {
+  font-family: ITC Berkeley Oldstyle Std;
+  font-size: 38pt;
+  font-weight: lighter;
+  text-align: center;
+  color: #155761;
+
+}
+
+.about-page {
+  background-image: url(../resources/images/temporary/about-bkg.svg);
 }
